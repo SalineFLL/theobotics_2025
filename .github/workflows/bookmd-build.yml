@@ -1,0 +1,30 @@
+name: Build Book with bookmd
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install Rust toolchain
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Install bookmd
+        run: cargo install bookmd
+
+      - name: Build book
+        run: bookmd build
+
+      - name: Upload book output
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-output
+          path: output/

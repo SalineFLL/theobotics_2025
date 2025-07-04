@@ -1,0 +1,5 @@
+/output/
+target/
+**/*.rs.bk
+**/*.swp
+.DS_Store
