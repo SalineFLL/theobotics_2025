@@ -1,4 +1,4 @@
-name: Build Book with bookmd
+name: Build Book with mdBook
 
 on:
   push:
@@ -17,11 +17,11 @@ jobs:
       - name: Install Rust toolchain
         uses: dtolnay/rust-toolchain@stable
 
-      - name: Install bookmd
-        run: cargo install bookmd
+      - name: Install mdbook
+        run: cargo install mdbook
 
       - name: Build book
-        run: bookmd build
+        run: mdbook build
 
       - name: Upload book output
         uses: actions/upload-artifact@v4
