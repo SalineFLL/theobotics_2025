@@ -1,9 +1,0 @@
-[book]
-title = "My Book Title"
-author = "Author Name"
-output = "output"
-
-[chapters]
-# List your chapters in order here, e.g.
-# "src/chapter1.md"
-# "src/chapter2.md"

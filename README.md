@@ -1,30 +1,27 @@
 # Book Project using `bookmd`
 
-This repository contains the source and configuration to compile a book using the [bookmd](https://crates.io/crates/bookmd) Rust crate.
+This repository contains the source and configuration to compile the Theobotics guide book using the mdbook Rust crate.
 
 ## Structure
 
-- `src/` — Markdown source files for each chapter/section.
-- `bookmd.toml` — Configuration file for bookmd.
-- `output/` — Compiled book output (not tracked in git).
+- `kingdom-book/src/` — Markdown source files for each chapter/section.
+- `kingdom-book/src/SUMMARY.md` — Sets up organization of book's chapters and sections.
+- `kingdom-book/book.toml` — Configuration file for mdbook.
 
 ## Usage
 
-1. Install [bookmd](https://crates.io/crates/bookmd):
+1. Install:
 
    ```sh
-   cargo install bookmd
+   cargo install mdbook
    ```
 
 2. Build the book:
 
    ```sh
-   bookmd build
+   cd theobotics-book
+   mdbook serve --open
    ```
 
-3. The compiled output will be in the `output/` directory.
+Your browser should open a tab to the compiled book. Updates you make to md files should render each time you save the md file.
 
-## Getting Started
-
-- Add your markdown files in the `src/` directory.
-- Edit `bookmd.toml` to configure bookmd as desired.
