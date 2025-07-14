@@ -1,27 +1,15 @@
 # Book Project using `bookmd`
 
-This repository contains the source and configuration to compile the Theobotics guide book using the mdbook Rust crate.
+This repository contains the source and configuration to compile the Theobotics guide book.
+
+The compiled book can be found at [https://salinefll.github.io/theobotics\_2025](https://salinefll.github.io/theobotics\_2025).
 
 ## Structure
 
-- `kingdom-book/src/` — Markdown source files for each chapter/section.
-- `kingdom-book/src/SUMMARY.md` — Sets up organization of book's chapters and sections.
-- `kingdom-book/book.toml` — Configuration file for mdbook.
+- `src/` — Markdown source files for each chapter/section.
+- `src/SUMMARY.md` — Sets up organization of book's chapters and sections.
+- `book.toml` — Configuration file for mdbook.
 
-## Usage
+## Contributing
 
-1. Install:
-
-   ```sh
-   cargo install mdbook
-   ```
-
-2. Build the book:
-
-   ```sh
-   cd theobotics-book
-   mdbook serve --open
-   ```
-
-Your browser should open a tab to the compiled book. Updates you make to md files should render each time you save the md file.
-
+Pull requests are welcome! I *think* that when I accept them, the book should be automatically updated using the workflow this repository has set up. The workflow should compile the book, including the changes in the PR, and publish the book to [https://salinefll.github.io/theobotics\_2025](https://salinefll.github.io/theobotics\_2025).
