@@ -12,4 +12,4 @@ The compiled book can be found at [https://salinefll.github.io/theobotics\_2025]
 
 ## Contributing
 
-Pull requests are welcome! I *think* that when I accept them, the book should be automatically updated using the workflow this repository has set up. The workflow should compile the book, including the changes in the PR, and publish the book to [https://salinefll.github.io/theobotics\_2025](https://salinefll.github.io/theobotics\_2025).
+Pull requests are welcome! I *think* that when I accept them, the book should be automatically updated using the workflow this repository has set up. The workflow should compile the book, including the changes in the PR, and publish the book to [https://salinefll.github.io/theobotics\_2025](https://salinefll.github.io/theobotics\_2025)..
