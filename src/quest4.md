@@ -26,9 +26,8 @@ Now, Theobot will model the servant leadership of Jesus.
 
 1.  Reset the objects on the table.
 2.  **Program Theobot to approach one of the objects slowly and gently.**
-3.  **Have Theobot perform an act of service.** For example, she could gently nudge the object to a "better" spot (like inside a circle you draw). Or she could "bow" to the object by moving forward and backward slightly.
+3.  **Have Theobot perform an act of service.** For example, she could gently nudge the object to a "better" spot (like inside a circle you draw). Or she could "bow" to the object by moving forward and backward slightly. She also has an accelerometer, so you could experiment with getting her beak light to turn green if you manually make her bow.
 4.  **Change her lights to a warm and gentle color, like yellow or orange.**
 5.  **Have her play a soft, humming sound.**
 6.  **Use the print block to display a heart (<3) or the word "SERVE" on her LED screen.** Theobot is showing that true greatness comes from serving others.
-
 
