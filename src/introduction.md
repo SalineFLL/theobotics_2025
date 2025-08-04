@@ -10,3 +10,23 @@ The word **Kin-dom** reminds us that God's kingdom is like a big, loving family.
 
 In these five quests, you will program Theo to explore the difference between a worldly kingdom, like Pharaoh's, and God's heavenly **Kin-dom**. Theobot will learn what it means to choose freedom over fear, courage over comfort, and service over power, all so we can help build God's Kin-dom right here, right now.
 
+First, though, let's meet our robot!
+
+Meet Theo. Theo is a robot called the Finch Robot 2.0.
+Take some time to get to know Theo and what Theo can do.
+
+* Visit Theo’s website (https://www.birdbraintechnologies.com/products/finch-robot-2-0/)
+* Check out a couple of ways to program Theo
+  * https://learn.birdbraintechnologies.com/finch/program/
+
+For this week, we’ll mostly use BirdBlox and Snap, but if you’d like to check out
+Python for programming Theo, feel free!
+Theo can drive, turn, play sounds, light up lights on its beak or tail,
+light up lights on its circuit board, sense its distance from nearby objects,
+and sense acceleration. There’s a lot Theo can do.
+
+We're also going to make videos of Theo doing the things we program him to do,
+and so some of you will be in charge of set design, construction, decoration, and coloring.
+Some of you will be involved in writing a script for Theo to act out as he
+carries out our quests.
+
