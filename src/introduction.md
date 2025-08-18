@@ -1,6 +1,6 @@
 # Introduction: The King and the Kingdom
 
-Welcome, Theobotics Engineers! Our robot, Theo, is ready for the first set of quests. We're going to dig deep into the part of The Lord's prayer Jesus taught us: **"Your kingdom come, your will be done, on earth as it is in heaven."**
+Welcome, Theobotics Engineers! Our robot, Theo, is ready for the first set of quests. We're going to dig deep into ideas surrounding the part of The Lord's prayer Jesus taught us: **"Your kingdom come, your will be done, on earth as it is in heaven."**
 
 When Jesus prayed this, it was a dangerous prayer. He lived in a world ruled by powerful kings and emperors who built kingdoms based on fear and control. The most famous example from the Old Testament was Pharaoh, a king who enslaved God's people to build his own empire.
 
