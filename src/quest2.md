@@ -4,7 +4,7 @@ Theo continued his studies. In Pharaoh's kingdom, everyone had to obey the king'
 But Theo discovered a story about two brave women, the midwives Shiphrah and Puah **(Exodus 1:15–21)**.
 Pharaoh ordered them to do something terrible, but they refused. They chose to obey God rather than a human king.
 
-Theobot learned that living in God's Kingdom sometimes takes courage.
+Theo learned that living in God's Kingdom sometimes takes courage.
 It means standing up for what is right, even when you are afraid. As the apostles later said, **"We must obey God rather than men" (Acts 5:29)**.
 
 ### Key Question: When is it right to say “no” to wrong?
@@ -16,7 +16,9 @@ It means standing up for what is right, even when you are afraid. As the apostle
 Let's create a situation where Theo receives a wrong command.
 
 1.  Place a "helpless" object on the table, something like a Solo cup might be a good choice.
-2.  **Program Theo to approach the object, detect it with his ultrasonic distance sensor, and push it off the table.** This represents Pharaoh's cruel command. Make his lights transition from green, to yellow, then orange, then red as he gets closer to the object, to show this is a bad action.
+2.  **Program Theo to approach the object, detect it with his ultrasonic distance sensor, and stop a specific distance from the object. Then, Theo should turn to push it off the table using a stick.** This represents Pharaoh's cruel command.
+    * Make Theo's lights transition from green, to yellow, then orange, then red as he gets closer to the object, to show this is a bad action. 
+    * Use the distance sensor's output to trigger the changing light colors
 
 ### Challenge 2: An Act of Courage
 
