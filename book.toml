@@ -3,7 +3,7 @@ authors = ["SalineFLL"]
 language = "en"
 multilingual = false
 src = "src"
-title = "Kingdom Bot's Big Adventure"
+title = "Theo's Big Adventure"
 
 [build]
 build-dir = "public"
