@@ -11,7 +11,7 @@ Theobot understood that this is what Jesus meant when he prayed, **"Thy will be 
 Jesus is our Moses, leading us out of the things that trap us.
 As Jesus said, **"If the Son sets you free, you will be free indeed" (John 8:36)**.
 
-### Key Question: What does real freedom look like in God’s Kin-dom?
+### Key Question: What does real freedom look like in God’s Kingdom?
 
 ---
 
@@ -20,10 +20,10 @@ As Jesus said, **"If the Son sets you free, you will be free indeed" (John 8:36)
 Let's program Theobot to act out God's rescue plan.
 
 1.  Create a "maze" or an obstacle course for Theobot. This represents the things that trap us (fear, sadness, unfair rules). Place Theobot at the start.
-2.  **First, program Theobot to try and get through the maze on her own.** She should bump into walls and get stuck. Make her lights flash red and play a frustrated sound when she gets too close to walls. She is trapped.
+2.  **First, program Theobot to try and get through the maze on his own.** He should bump into walls and get stuck. Make his lights flash red and play a frustrated sound when he gets too close to walls. He is trapped.
 3.  **Now, it's time for God's rescue plan!** Your team will act as God's delivering hand. Clear a single, open path through the maze. NOTE FROM JEREMY: I think we should replace this with line following. So the path through the maze is a thick black line with very sharp boundaries. If the maze has gradual curves instead of sharp corners, we should be able to teach the kids proportional feedback for line following here.
-4.  **Program Theobot to travel down the newly opened path.** She should move smoothly and without stopping.
-5.  **As she travels the path to freedom, make her lights a hopeful green.**
-6.  **When she exits the maze, have her do a victory spin and play a triumphant sound.**
-7.  **Use the print block to display "RESCUED" on her LED screen.** Theobot has been set free by God's rescue plan.
+4.  **Program Theobot to travel down the newly opened path.** He should move smoothly and without stopping.
+5.  **As he travels the path to freedom, make his lights a hopeful green.**
+6.  **When he exits the maze, have him do a victory spin and play a triumphant sound.**
+7.  **Use the print block to display "RESCUED" on his LED screen.** Theobot has been set free by God's rescue plan.
 
