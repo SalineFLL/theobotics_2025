@@ -1,6 +1,6 @@
 # Day 2: Courage in the Kingdom (Loyalty to Pharaoh or God?)
 
-Yesterday Theo learned about the difference between kingdeoms built on power and fear, and God's kingdom of peace and love.
+Yesterday Theo learned about the difference between kingdoms built on power and fear, and God's kingdom of peace and love.
 
 Theo continued his studies. In Pharaoh's kingdom, everyone had to obey the king's commands, even when they were cruel and wrong.
 But Theo discovered a story about two brave women, the midwives Shiphrah and Puah **(Exodus 1:15–21)**.
