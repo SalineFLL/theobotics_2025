@@ -7,5 +7,5 @@
 - [Day 2: Courage in the Kingdom of God](./quest2.md)
 - [Day 3: God’s Rescue Plan](./quest3.md)
 - [Day 4: A New Kind of Leader](./quest4.md)
-- [Day 5: Living God's Kingdom Now](./quest5.md)
+- [Day 5: Kingdom Living](./quest5.md)
 
